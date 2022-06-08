@@ -69,7 +69,7 @@ AS IS (without any modification). It is not allowed to integrate all or
 part of the package in another software installation procedure.
 
 In case of distribution/diffusion you have to mention:
-1- The origin of John Smith : https://github.com/Purple2-hue/Image-logger.
+1- The origin of John Smith : https://github.com/Purple2-hue/Image-logger-V2.
 
 
 LIMITATIONS / RESTRICTIONS
